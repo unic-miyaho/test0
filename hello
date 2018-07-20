@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include<math.h>
+
+int main(){
+    int i;
+    printf("hello W!\n");
+    for(i=0;i<10;i++){
+        printf("%d\n",i*2);
+    }
+}
